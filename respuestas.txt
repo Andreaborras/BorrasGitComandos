@@ -1,3 +1,5 @@
 1- grep -i "juan" datos.txt
-grep "@" | grep -i "juan" datos.txt
-echo "programación" | wc -w datos.txt
+2-grep "@" | grep -i "juan" datos.txt
+3-echo "programación" | wc -w datos.txt
+4-
+5-
