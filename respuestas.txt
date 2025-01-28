@@ -5,3 +5,4 @@
 5-
 6- sed 's/.com/.net/ ' datos.txt
 7-awk 'NF <2 { print $0 }' datos.txt
+8- awk '<40' '{print $3}' datos.txt
